@@ -10,6 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
+				"fileName": "data_aa75b9f1-6935-4d04-9a9c-c8636153038b_0db649a0-5e67-4ed1-8ccf-5cf3f317d79e.txt",
 				"container": "yesterday"
 			},
 			"columnDelimiter": ",",
