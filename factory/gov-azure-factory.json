@@ -1,0 +1,9 @@
+{
+	"name": "gov-azure-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b8ba3994-bb30-4be5-ba4c-5c25fc7124a9",
+		"tenantId": "4ac50105-0c66-404e-a107-7cbd8a9a6442"
+	}
+}
